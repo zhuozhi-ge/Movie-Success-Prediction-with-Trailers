@@ -19,7 +19,7 @@
 14. dt_trailers: number of days between the two most popular Youtube trailers for a movie. dt_trailers=0 if the movie only has one trailer, dt_trailers<0 if the first trailer was has the largest search volume.
 
 **Target**
-<br>$success = \frac{opening \ weekend \ revenue}{budget}$
+<br>success = opening weekend revenue / budget
 
 **Machine learning**
 <br>1, Predict movie success (target) for based on given informations (features) by applying different models
