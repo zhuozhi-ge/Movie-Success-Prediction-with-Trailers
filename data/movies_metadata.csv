@@ -1,0 +1,101 @@
+,id,title,budget,revenue,genres,production_companies,production_countries,release_date,runtime
+0,745068,"Presidents, Politics, & Prophecy",25000,0,"[{'id': 99, 'name': 'Documentary'}]",[],[],,77
+1,745107,The Bateman Lectures on Depression,5000,0,"[{'id': 35, 'name': 'Comedy'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2018-06-15,78
+2,745109,Marmalade,60000,0,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]","[{'id': 140501, 'logo_path': None, 'name': 'A Cowboy Named Danger Productions', 'origin_country': ''}, {'id': 126513, 'logo_path': None, 'name': 'Lane E Productions', 'origin_country': ''}, {'id': 140502, 'logo_path': None, 'name': 'Rated Elle Productions', 'origin_country': ''}]",[],,26
+3,745116,Colina Ceiuci,200,0,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}]","[{'id': 140503, 'logo_path': None, 'name': 'Casa 1895', 'origin_country': ''}]",[],,0
+4,745147,Can You Bring It? Bill T. Jones and D-Man in the Waters,750000,0,"[{'id': 99, 'name': 'Documentary'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,0
+5,745179,Boo! The Movie,25000,0,"[{'id': 27, 'name': 'Horror'}]","[{'id': 140515, 'logo_path': None, 'name': 'Boo! Productions, Inc.', 'origin_country': ''}]",[],2002-10-27,94
+6,745226,Hanging Elizabeth Reed: A Ghost Story,1712,0,[],[],[],,72
+7,745239,Ima Machet Icha Tangkhai,1500,0,[],[],[],,150
+8,745342,Lonely Hearts,10000,0,"[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",[],[],2020-10-27,16
+9,745373,B E A N S,10,595,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 140540, 'logo_path': None, 'name': 'earthed films', 'origin_country': ''}]",[],,35
+10,745424,Death (And Disco Fries),5000,0,[],[],[],,10
+11,745456,Breakfast With Benjamin,500,0,[],[],[],,5
+12,745502,white mass,1,0,"[{'id': 35, 'name': 'Comedy'}]","[{'id': 140540, 'logo_path': None, 'name': 'earthed films', 'origin_country': ''}]",[],,69
+13,745732,Blood Vendetta,60000,0,"[{'id': 28, 'name': 'Action'}, {'id': 10752, 'name': 'War'}]","[{'id': 134034, 'logo_path': None, 'name': 'Unknown World Pictures', 'origin_country': ''}, {'id': 140582, 'logo_path': None, 'name': 'Night Shade Pictures', 'origin_country': ''}]","[{'iso_3166_1': 'PT', 'name': 'Portugal'}, {'iso_3166_1': 'US', 'name': 'United States of America'}, {'iso_3166_1': 'VN', 'name': 'Vietnam'}]",2021-09-18,0
+14,745737,Halloween : Prodigal Son,12000,0,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]","[{'id': 134034, 'logo_path': None, 'name': 'Unknown World Pictures', 'origin_country': ''}, {'id': 140582, 'logo_path': None, 'name': 'Night Shade Pictures', 'origin_country': ''}]","[{'iso_3166_1': 'PT', 'name': 'Portugal'}, {'iso_3166_1': 'US', 'name': 'United States of America'}]",2021-10-31,0
+15,745771,House of the Dead - Director's Cut,12000000,13800000,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 15127, 'logo_path': None, 'name': 'Boll KG', 'origin_country': ''}, {'id': 8068, 'logo_path': None, 'name': 'Mindfire Entertainment', 'origin_country': ''}, {'id': 113750, 'logo_path': '/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png', 'name': 'SEGA', 'origin_country': 'JP'}, {'id': 1063, 'logo_path': '/fpVBhNnopOZwGuF0gg99oBHp1ht.png', 'name': 'Brightlight Pictures', 'origin_country': 'CA'}]",[],2008-09-09,90
+16,745805,Not the beach but it's not that bad,936,0,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",[],[],,0
+17,745850,A Hotel on the Niagara River,400,0,[],[],[],2020-08-13,12
+18,745853,Monotonia,6000,0,[],[],[],2019-07-09,28
+19,745855,You Shouldn't Leave Here,2500,0,[],[],[],2020-06-26,50
+20,745880,The Laird Walks in the Park,5,0,"[{'id': 16, 'name': 'Animation'}]",[],[],2020-09-22,1
+21,745897,Doesn't Fall Far,25000,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 140605, 'logo_path': None, 'name': 'ForeSee Film Productions', 'origin_country': ''}]",[],2020-09-22,15
+22,745924,Into Thin Air,250,0,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]","[{'id': 19121, 'logo_path': None, 'name': 'Lazer Film Productions', 'origin_country': ''}]",[],1994-02-11,83
+23,745925,Over the Threshold,5000,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 140605, 'logo_path': None, 'name': 'ForeSee Film Productions', 'origin_country': ''}]",[],2019-08-06,12
+24,745937,Linkin Park: Rock in Rio USA,25,0,[],[],[],2015-05-09,0
+25,745943,Vouta,20000,0,[],"[{'id': 7255, 'logo_path': '/aHu0SirjV9Mi0OrlnFWqZwy50wW.png', 'name': 'EPT', 'origin_country': 'GR'}]","[{'iso_3166_1': 'GR', 'name': 'Greece'}]",,18
+26,745958,Soulmate,500,0,[],[],[],2013-04-29,0
+27,745985,Our Mobile Lives,3000,0,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140617, 'logo_path': None, 'name': 'PATM Productions', 'origin_country': ''}]",[],2014-10-12,58
+28,745994,The Wayward Guide for the Untrained Eye,122123,0,"[{'id': 9648, 'name': 'Mystery'}, {'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 106602, 'logo_path': None, 'name': 'Tin Can Brothers', 'origin_country': ''}]","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2020-10-13,150
+29,746104,Notice Me,224,0,"[{'id': 18, 'name': 'Drama'}]",[],[],,0
+30,746123,yoink the yeezys,300,5,[],[],[],,5
+31,746124,The pink indian against the invisible beast: Noel Nutels' battle,40000,0,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140637, 'logo_path': None, 'name': 'Banda Filmes', 'origin_country': ''}]","[{'iso_3166_1': 'BR', 'name': 'Brazil'}]",2020-03-15,71
+32,746370,"As Melhores Românticas das Novelas 6 Internacional - Hi-Res Audio, com Letras",216,1565,[],[],[],,0
+33,746402,The Ranger,4000,0,[],[],[],,0
+34,746414,"Lick My Decals Off, Baby",1400,0,"[{'id': 10402, 'name': 'Music'}]",[],[],1971-03-01,1
+35,746418,Kanya,42500,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'IN', 'name': 'India'}, {'iso_3166_1': 'CZ', 'name': 'Czech Republic'}]",2020-10-29,15
+36,746441,Harassed,50,0,[],[],[],,0
+37,746464,Llámame Vampus,6000,0,"[{'id': 27, 'name': 'Horror'}]",[],[],2018-12-28,0
+38,746507,Dude and The Man,500,0,"[{'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}]","[{'id': 140700, 'logo_path': None, 'name': 'Daniels Production', 'origin_country': ''}]",[],2021-08-01,15
+39,746558,Sardines out of a Can,10000,0,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 140704, 'logo_path': None, 'name': 'Kuz Productions', 'origin_country': ''}]",[],2013-10-24,22
+40,746579,Threshold,100,0,"[{'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]","[{'id': 140710, 'logo_path': None, 'name': 'Fax Machine', 'origin_country': ''}]","[{'iso_3166_1': 'AU', 'name': 'Australia'}]",,9
+41,746598,Headless into Night,11000,0,[],[],[],,14
+42,746606,My Haunted House,15000000,0,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 22331, 'logo_path': None, 'name': 'Tigon', 'origin_country': ''}, {'id': 103957, 'logo_path': None, 'name': 'Liquid Media', 'origin_country': ''}]","[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",2018-09-07,0
+43,746617,Boy on the Moon,106,0,"[{'id': 18, 'name': 'Drama'}]",[],[],,10
+44,746651,The Eugene Oregon Project,2,2,[],[],[],2019-07-20,37
+45,746666,The Path,2000,0,"[{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",[],"[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",2020-09-01,10
+46,746672,re:play,300,0,"[{'id': 99, 'name': 'Documentary'}]",[],[],,11
+47,746692,Missed the Bus,3,0,"[{'id': 53, 'name': 'Thriller'}]",[],[],2020-09-08,3
+48,746710,dvě místa,500,0,[],[],"[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",2020-03-11,10
+49,746711,Tichý hlas,500,0,[],[],"[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",2020-09-29,9
+50,746715,Za Horami,500,0,[],[],"[{'iso_3166_1': 'GB', 'name': 'United Kingdom'}]",2020-09-29,8
+51,746722,Pizzaman,5000,0,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]","[{'id': 140743, 'logo_path': None, 'name': 'Moviejawn', 'origin_country': ''}]",[],,10
+52,746795,Sentimento Mútuo,15,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 140764, 'logo_path': '/xULPccCh5q759tTH2hPsefUcB0U.png', 'name': 'Criticagem Studios', 'origin_country': 'BR'}]","[{'iso_3166_1': 'BR', 'name': 'Brazil'}]",2019-08-28,0
+53,746823,Collage,5000,0,"[{'id': 99, 'name': 'Documentary'}, {'id': 10751, 'name': 'Family'}]","[{'id': 140755, 'logo_path': None, 'name': 'Claqueta Rota', 'origin_country': ''}]","[{'iso_3166_1': 'US', 'name': 'United States of America'}, {'iso_3166_1': 'MX', 'name': 'Mexico'}]",2021-08-31,0
+54,746847,Leap,14000,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 140761, 'logo_path': None, 'name': 'Grumpy Panda', 'origin_country': ''}]","[{'iso_3166_1': 'PT', 'name': 'Portugal'}]",2020-10-07,14
+55,746855,Der Rand,8142,0,"[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}]","[{'id': 140762, 'logo_path': None, 'name': 'Reblue Produktion', 'origin_country': ''}]","[{'iso_3166_1': 'DE', 'name': 'Germany'}]",2014-05-28,0
+56,746913,I'm Not Bad Luck (The True Story of Kesz Valdez),65000,0,[],[],[],,20
+57,746919,The Fabricated,1000,0,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]","[{'id': 140779, 'logo_path': None, 'name': 'The Black Fig Tree', 'origin_country': ''}]","[{'iso_3166_1': 'IR', 'name': 'Iran'}]",2020-11-21,30
+58,746926,Jack Fall,75000,0,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,50
+59,746943,Cause of My Death,100000,0,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]","[{'id': 140792, 'logo_path': None, 'name': 'AAA Pro Film', 'origin_country': ''}]","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,80
+60,746966,An Exchange,10500,0,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}]",[],[],,8
+61,746974,"Happy Birthday, Papa",10000,0,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 140801, 'logo_path': None, 'name': 'Partners in Cinema', 'origin_country': ''}]","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,15
+62,746978,Argumento,1000,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,11
+63,747005,The August club,4300,0,"[{'id': 27, 'name': 'Horror'}]",[],[],,43
+64,747035,for the devil who sleep on my bed,4,10,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140832, 'logo_path': None, 'name': 'hamood', 'origin_country': ''}]",[],2020-09-26,6
+65,747070,A Brief State Of The Human Being,300,0,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}]",[],[],,15
+66,747077,88.3 FM & The Voice of the People,3000,0,[],[],[],,104
+67,747082,Our house in flames,785,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 69545, 'logo_path': '/h3XbQjqX2LyFu1L9cKTr0ICXSX.png', 'name': 'Escola das Artes - Universidade Católica', 'origin_country': 'PT'}, {'id': 140844, 'logo_path': None, 'name': 'Badlands', 'origin_country': ''}]","[{'iso_3166_1': 'PT', 'name': 'Portugal'}]",,13
+68,747132,Masks,200,0,"[{'id': 27, 'name': 'Horror'}]","[{'id': 140853, 'logo_path': None, 'name': 'Mutante', 'origin_country': ''}]","[{'iso_3166_1': 'AR', 'name': 'Argentina'}]",,11
+69,747155,Cultanica,17000,0,[],[],[],,16
+70,747232,Dieu reconnaîtra les siens,25000,0,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",[],"[{'iso_3166_1': 'FR', 'name': 'France'}]",2013-11-23,13
+71,747235,Je ne suis pas Samuel Krohm,13000,0,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",[],"[{'iso_3166_1': 'FR', 'name': 'France'}]",2013-05-15,25
+72,747312,Kein Weg zurück,100000,0,[],[],[],,0
+73,747381,Wild Nights,2500,0,[],[],[],2018-03-15,21
+74,747382,Día 0,2,0,"[{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]","[{'id': 140879, 'logo_path': None, 'name': 'La Trinidad Films', 'origin_country': ''}]","[{'iso_3166_1': 'MX', 'name': 'Mexico'}]",2020-01-04,0
+75,747387,Das Fieber,250000,0,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140881, 'logo_path': None, 'name': 'pooldoks filmproduktion kg', 'origin_country': ''}]",[],2020-09-25,0
+76,747438,Salvando a Papá,1000,0,"[{'id': 27, 'name': 'Horror'}]",[],[],,7
+77,747441,İnşaattaki,2000,0,"[{'id': 18, 'name': 'Drama'}]","[{'id': 140888, 'logo_path': None, 'name': 'Sinema Adası', 'origin_country': ''}]",[],,0
+78,747444,CHOI DI (or Inside an addict's psyche),20,0,"[{'id': 27, 'name': 'Horror'}]",[],[],,6
+79,747462,Adam Driver Fan Cast: Covid Zoom Special Fantasy Forever,10,0,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 140892, 'logo_path': None, 'name': 'Snow Mass Productions', 'origin_country': ''}]",[],2020-09-25,31
+80,747474,100 Years of Felix the Cat,20000,0,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140893, 'logo_path': None, 'name': 'Carclo Productions, Inc.', 'origin_country': 'US'}]","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",,58
+81,747525,Fear of time,15,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'BR', 'name': 'Brazil'}]",,12
+82,747556,The Island,14104,0,"[{'id': 53, 'name': 'Thriller'}]","[{'id': 140910, 'logo_path': None, 'name': 'Wreck Studios', 'origin_country': ''}]","[{'iso_3166_1': 'AU', 'name': 'Australia'}]",2020-10-10,0
+83,747592,Frankenström,3360,0,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]","[{'id': 140920, 'logo_path': None, 'name': 'Bad Egg Films', 'origin_country': ''}]","[{'iso_3166_1': 'FI', 'name': 'Finland'}]",2001-12-17,73
+84,747610,The Foundation: Indigenous Hip Hop in Canada,20000,0,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140928, 'logo_path': None, 'name': 'Rudegang Entertainment', 'origin_country': ''}]","[{'iso_3166_1': 'CA', 'name': 'Canada'}]",2019-09-23,10
+85,747628,The Haunting Dreams of a Distraught Widow,3500,0,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",[],[],2021-01-28,15
+86,747652,Cameras Pointed Straight into the Sun,50,0,"[{'id': 80, 'name': 'Crime'}, {'id': 16, 'name': 'Animation'}, {'id': 9648, 'name': 'Mystery'}]",[],[],2020-09-27,7
+87,747774,Faces,500,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2020-04-11,7
+88,747797,Rosa Kairo,600,0,"[{'id': 18, 'name': 'Drama'}]",[],[],,0
+89,747798,three : six,50,0,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10751, 'name': 'Family'}]",[],[],,5
+90,747807,Début et fin,500,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'PR', 'name': 'Puerto Rico'}]",2019-06-03,1
+91,747814,Comadrona: un parto empoderado,1500,0,"[{'id': 99, 'name': 'Documentary'}]",[],"[{'iso_3166_1': 'PR', 'name': 'Puerto Rico'}]",2020-06-22,9
+92,747819,Derecho de Réplica,1500,0,"[{'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'PR', 'name': 'Puerto Rico'}]",2019-06-20,10
+93,747882,Encantados do Cri-ú,883,883,"[{'id': 99, 'name': 'Documentary'}]","[{'id': 140967, 'logo_path': None, 'name': 'Meio Mundo Produções', 'origin_country': ''}]","[{'iso_3166_1': 'BR', 'name': 'Brazil'}]",2020-02-07,0
+94,747919,A Black Morning,10,0,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2020-09-28,3
+95,747923,Torgo Kills / Torgo Lives,200,0,"[{'id': 27, 'name': 'Horror'}]",[],[],,9
+96,747957,Dante Falls,15,0,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2019-08-01,9
+97,747968,Venus,50,20,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}]",[],"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",2020-10-23,3
+98,747976,Charles Beaumont: The Short Life of Twilight Zone's Magic Man,25000,0,"[{'id': 99, 'name': 'Documentary'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",[],[],,110
+99,747982,Smiles For Miles,800000000,1,[],[],[],,5
