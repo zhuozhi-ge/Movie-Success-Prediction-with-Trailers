@@ -28,4 +28,3 @@
 **Metrics**
 <br>Model performance can be evaluated in different ways, here R2 score is used
 <br>R2 score: the proportion of the variance in the dependent variable (target) that is predictable from the independent variables (features). R2 score is no greater than 1 and the higher R2 the better model performance. A negative R2 score suggests that the model performance is worse than mean value prediction, and R2 score of 1 indicates a perfect prediction.
-<br>![image-8.png](attachment:image-8.png)
