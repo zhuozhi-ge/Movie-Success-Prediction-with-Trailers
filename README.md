@@ -1,4 +1,4 @@
-# Movie-Success-Prediction-with-Trailers
+# Movie Success Prediction with Trailers
 **Problem statement**
 <br>The success of a movie can be predicated using social media analytics. The audience expectations and movie buzz can be measured from the data gathered via social media platforms. Video-sharing websites like YouTube encourages interaction among its users through the provision of user reviewing facility of movie trailers. In this project, I gather data about movie trailers by scraping the internet and using API's from different sources. I then build a model that uses this dataset (things like online search trends prior to release date, etc) to predict the initial success of a movie.
 
